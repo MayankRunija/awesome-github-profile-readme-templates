@@ -13,7 +13,7 @@
 - :peach: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
 
 ![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
-<img  alt="programming stats" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChungZH&&layout=compact&langs_count=8&theme=gruvbox"/>
+<img  alt="programming stats" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChungZH&&layout=compact&langs_count=8&theme=gruvbox"/>
 
 ###### 💾 EOF
 
